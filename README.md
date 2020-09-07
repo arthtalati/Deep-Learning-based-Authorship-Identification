@@ -2,7 +2,7 @@
 
 Presentation Video link - [Vimeo](https://vimeo.com/415780627)
 
-![Page1](https://github.com/arthtalati/Deep-Learning-based-Authorship-Identification/blob/master/page1.png)
+![Page1](https://github.com/arthtalati/Deep-Learning-based-Authorship-Identification/blob/master/images/page1.png)
 
 
-![Page 2](https://github.com/arthtalati/Deep-Learning-based-Authorship-Identification/blob/master/page2.png)
+![Page 2](https://github.com/arthtalati/Deep-Learning-based-Authorship-Identification/blob/master/images/page2.png)
